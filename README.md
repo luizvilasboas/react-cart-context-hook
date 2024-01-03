@@ -1,12 +1,12 @@
-# cart
+# react-cart-context-hook
 
 This is a cart web-application that I made during one of my Alura's courses. It's made in React.js using React Context.
 
 ## Demo
 
-![Demo of cart](https://gitlab.com/alura-courses-code/react/cart/-/raw/main/img/demo.png)
+![Demo of cart](https://gitlab.com/alura-courses-code/react/react-cart-context-hook/-/raw/main/img/demo.png)
 
-You can find a live demo by clicking [here](https://reacart.netlify.app).
+You can find a live demo by clicking [here](https://react-cart-context-hook.netlify.app).
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@ Before getting started, make sure you have the following requirements installed 
 Clone this repository to your desired folder on your machine:
 
 ```
-git clone https://gitlab.com/alura-courses-code/react/cart.git
+git clone https://gitlab.com/alura-courses-code/react/react-cart-context-hook.git
 ```
 
 ### Step 2: Install dependencies
@@ -31,7 +31,7 @@ git clone https://gitlab.com/alura-courses-code/react/cart.git
 Navigate to the project directory and install the dependencies using NPM:
 
 ```
-cd cart
+cd react-cart-context-hook
 npm install
 ```
 
@@ -51,4 +51,4 @@ If you wish to contribute to this project, feel free to open a merge request. We
 
 ## License
 
-This project is licensed under the [MIT](https://gitlab.com/alura-courses-code/react/cart/-/blob/main/LICENSE). Refer to the LICENSE file for more details.
+This project is licensed under the [MIT](https://gitlab.com/alura-courses-code/react/react-cart-context-hook/-/blob/main/LICENSE). Refer to the LICENSE file for more details.
