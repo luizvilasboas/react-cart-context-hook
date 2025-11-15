@@ -1,54 +1,63 @@
 # react-cart-context-hook
 
-This is a cart web-application that I made during one of my Alura's courses. It's made in React.js using React Context.
+> A shopping cart web application built with React and the Context API as part of an Alura course.
 
-## Demo
+## About the Project
+
+This project is a simple e-commerce front-end created to practice and demonstrate state management in React using the Context API and Hooks. It was developed as part of a course on the Alura platform.
+
+A live demo is available at: **[react-cart-context-hook.netlify.app](https://react-cart-context-hook.netlify.app)**
 
 ![Demo of cart](https://github.com/luizvilasboas/react-cart-context-hook/blob/main/img/demo.png?raw=true)
 
-You can find a live demo by clicking [here](https://react-cart-context-hook.netlify.app).
+## Tech Stack
 
-## Prerequisites
+*   [React](https://react.dev/) (using Context API and Hooks)
+*   [Node.js](https://nodejs.org/)
 
-Before getting started, make sure you have the following requirements installed on your machine:
+## Usage
 
-1. **Node.js**: Node.js is a platform that allows the execution of JavaScript code on the server. You can download Node.js from the [official website](https://nodejs.org/) and follow the installation instructions for your operating system.
+Below are the instructions for you to set up and run the project locally.
 
-2. **NPM**: NPM is the package manager for Node.js. It is installed along with Node.js and is necessary for installing project dependencies.
+### Prerequisites
 
-## Installation and Development
+You need to have the following software installed:
 
-### Step 1: Clone the repository
+*   [Node.js](https://nodejs.org/en/download) (which includes npm)
 
-Clone this repository to your desired folder on your machine:
+### Installation and Setup
 
-```
-git clone https://github.com/luizvilasboas/react-cart-context-hook.git
-```
+Follow the steps below:
 
-### Step 2: Install dependencies
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/luizvilasboas/react-cart-context-hook.git
+    ```
 
-Navigate to the project directory and install the dependencies using NPM:
+2.  **Navigate to the project directory**
+    ```bash
+    cd react-cart-context-hook
+    ```
 
-```
-cd react-cart-context-hook
-npm install
-```
+3.  **Install dependencies**
+    ```bash
+    npm install
+    ```
 
-### Step 3: Run the application
+### Workflow
 
-After configuring the RapidAPI key, you can start the application locally with the following command:
-
-```
+To run the application in development mode, execute the following command:
+```bash
 npm run start
 ```
-
-The application will be available in your browser at [localhost:3000](http://localhost:3000).
+The application will be available in your browser at `http://localhost:3000`.
 
 ## Contributing
 
-If you wish to contribute to this project, feel free to open a merge request. We welcome all forms of contribution!
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request.
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/luizvilasboas/react-cart-context-hook/blob/main/LICENSE). Refer to the LICENSE file for more details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
